@@ -1,9 +1,6 @@
 hi this is test to make a file
-<<<<<<< HEAD
 hiotfix add second line to test file
 edit something
 thiss is test
-=======
 hotfix add second line to test file
-third test
->>>>>>> master
+third tet
